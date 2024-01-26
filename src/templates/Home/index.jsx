@@ -1,7 +1,6 @@
 import './styles.css';
 
 import { Component } from 'react';
-import { render } from '@testing-library/react';
 
 import { Posts } from '../../components/Posts';
 import { loadPosts } from '../../utilits/loadPosts';
